@@ -1,0 +1,79 @@
+body {
+    font-size: 1.6em;
+}
+
+#vectors {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin: 10px;
+    border-top: 5px solid #00308f;
+    border-bottom: 5px dotted #00308f;
+    border-left: 5px dashed #00308f;
+    border-right: 5px double #00308f;
+    width: 40%;
+    background: gray;
+    top: 0px;
+}
+
+#fsnormal {
+    font-style: normal;
+}
+
+#fsitalic {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#fvsmallcaps {
+    font-variant: small-caps;
+}
+
+#fwnormal {
+    font-weight: normal;
+}
+
+#fwbold {
+    font-weight: bold;
+}
+
+#fwbolder {
+    font-weight: bolder;
+}
+
+#fwlighter {
+    font-weight: lighter;
+}
+
+#fszmedium {
+    font-size: medium;
+}
+
+#fsxxsmall {
+    font-size: xx-small;
+}
+
+#fszsmall {
+    font-size: small;
+}
+
+#fszxxlarge {
+    font-size: xx-large;
+}
+
+#fszlarge {
+    font-size: large;
+}
+
+#fszprct {
+    font-size: 200%;
+}
+
+#fszpt {
+    font-size: 25pt;
+}
+
+#flhprct {
+    line-height: 200%;
+}
